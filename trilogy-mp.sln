@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trilogy-client", "trilogy-client\trilogy-client.vcxproj", "{C5A12CA0-516E-4CB2-A1E4-64918363370A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client\trilogy-client.vcxproj", "{C5A12CA0-516E-4CB2-A1E4-64918363370A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trilogy-server", "trilogy-server\trilogy-server.vcxproj", "{CB200F85-C61C-4D7E-AEBE-B856DA16F74C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "server", "server\trilogy-server.vcxproj", "{CB200F85-C61C-4D7E-AEBE-B856DA16F74C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trilogy-shared", "trilogy-shared\trilogy-shared.vcxitems", "{29954653-8B50-42FE-B25D-0A9FC9A99F0F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared", "shared\trilogy-shared.vcxitems", "{29954653-8B50-42FE-B25D-0A9FC9A99F0F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trilogy-ui-subprocess", "trilogy-ui-subprocess\trilogy-ui-subprocess.vcxproj", "{0C58DC43-86C1-4399-B073-B861BF3C3DB7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ui", "ui\trilogy-ui-subprocess.vcxproj", "{0C58DC43-86C1-4399-B073-B861BF3C3DB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deps", "deps", "{98ABF0B3-03AC-4778-9DB9-F40B6338D77A}"
 EndProject
