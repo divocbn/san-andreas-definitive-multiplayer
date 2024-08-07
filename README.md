@@ -12,7 +12,7 @@ The project is divided into the following components:
 - `shared/`
 - `ui/`
 
-Showcase: <br />
+## Showcase: 
 [![https://www.youtube.com/watch?v=_RkFuIESyHk](http://img.youtube.com/vi/_RkFuIESyHk/0.jpg)](http://www.youtube.com/watch?v=_RkFuIESyHk "Showcase") <br />
 https://www.youtube.com/watch?v=_RkFuIESyHk
 
