@@ -1,12 +1,11 @@
-# San Andreas Definitive Edition Multiplayer (alias TRILOGY:MP)
+# San Andreas Definitive Edition Multiplayer 
+> alias TRILOGY:MP
 
 ## Introduction
 
-TRILOGY:MP is an unofficial free modification for GTA: The Trilogy — The Definitive Edition that adds multiplayer to the game. 
+TRILOGY:MP is an unofficial free modification for GTA: The Trilogy — The Definitive Edition that adds multiplayer to the game. <br />
 The project is based on code injection and hooking techniques. It adds functions such as a scripting API, networking, multiplayer, and the extension of in-game limitations.
-Unfortunately, the project could not be completed due to lack of time.
-
-This project's code is entirely selfmade reverse-engineered.
+Unfortunately, the project could not be completed due to lack of time. This project's code is entirely selfmade reverse-engineered.
 
 The project is divided into the following components:
 - `client/`
