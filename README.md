@@ -12,6 +12,8 @@ The project is divided into the following components:
 - `shared/`
 - `ui/`
 
+Showcase: https://www.youtube.com/watch?v=_RkFuIESyHk
+
 ## Build Instructions
 
 ### Windows
