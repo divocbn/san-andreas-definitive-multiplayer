@@ -1,9 +1,8 @@
 # San Andreas Definitive Edition Multiplayer 
-> alias TRILOGY:MP
 
 ## Introduction
 
-TRILOGY:MP is an unofficial free modification for GTA: The Trilogy — The Definitive Edition that adds multiplayer to the game. <br />
+TRILOGY:MP is an unofficial free modification for GTA: The Trilogy — The Definitive Edition that adds multiplayer to the game.
 The project is based on code injection and hooking techniques. It adds functions such as a scripting API, networking, multiplayer, and the extension of in-game limitations.
 Unfortunately, the project could not be completed due to lack of time. This project's code is entirely selfmade reverse-engineered.
 
@@ -33,5 +32,5 @@ The project is divided into the following components:
 
 ## License
 
-Grand Theft Auto and all related trademarks are © Rockstar North 1997–2024.
+Grand Theft Auto and all related trademarks are © Rockstar North 1997–2024. <br />
 Grove Street Games and all related trademarks are © Grove Street Games 2024.
